@@ -60,9 +60,8 @@ drill-through-enabled report.
 ---
 
 ## Project Structure
-
-├── ShopNest_Dashboard.pbix
-├── dashboard_screenshot.png
+├── ShopNest_Report.docx
+├── Shopnest Powerbi.pbix
 └── README.md
 
 
