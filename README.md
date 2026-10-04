@@ -1,4 +1,4 @@
-# shopnest-powerbi-dashboard
+# power-bi-dashboard
 Power BI dashboard analyzing ~R$16M e-commerce revenue across 9 datasets
 
 # ShopNest Store Business Analytics Dashboard 📊
